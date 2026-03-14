@@ -1,4 +1,4 @@
-module github.com/rickferrdev/hasher
+module github.com/rickferrdev/go-hasher
 
 go 1.25.0
 
